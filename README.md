@@ -1,1 +1,1 @@
-# MovieRatingPredectionModel
+# MovieRatingPredictionModel
